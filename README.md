@@ -1,5 +1,3 @@
-Changing Desktop wallpaper after turning on Windows every time with Python.
-
 Set the script to run after Windows starts
 
  Save the script as a change_wallpaper.py file.
